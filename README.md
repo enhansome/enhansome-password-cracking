@@ -57,7 +57,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ## Cloud
 
 * [Penglab](https://github.com/mxrch/penglab) ⭐ 974 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2023-07-17 - Abuse of Google Colab for cracking hashes.
-* [NPK](https://github.com/c6fc/npk) ⭐ 662 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-13 - NPK is a distributed hash-cracking platform built entirely of serverless components in AWS including Cognito, DynamoDB, and S3.
+* [NPK](https://github.com/c6fc/npk) ⭐ 661 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-13 - NPK is a distributed hash-cracking platform built entirely of serverless components in AWS including Cognito, DynamoDB, and S3.
 * [Cloudtopolis](https://github.com/JoelGMSec/Cloudtopolis) ⭐ 418 | 🐛 2 | 🌐 PowerShell | 📅 2024-08-22 - A tool that facilitates the installation and provisioning of Hashtopolis on the Google Cloud Shell platform, quickly and completely unattended (and also, free!).
 * [Rook](https://github.com/JumpsecLabs/Rook) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2019-11-13 - Automates the creation of AWS p3 instances for use in GPU-based password cracking.
 * [Cloud\_crack](https://github.com/lordsaibat/Cloud_crack) ⭐ 47 | 🐛 0 | 🌐 HCL | 📅 2019-03-20 - Crack passwords using Terraform and AWS.
