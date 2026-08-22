@@ -126,7 +126,7 @@
             "last_commit": "2026-08-15T08:08:13Z",
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2427
+            "stars": 2429
           }
         },
         {
@@ -371,10 +371,10 @@
                 "archived": false,
                 "id": 119077795,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:11:56Z",
+                "last_commit": "2026-08-22T01:36:21Z",
                 "owner": "trustedsec",
                 "repo": "hate_crack",
-                "stars": 1852
+                "stars": 1853
               }
             },
             {
@@ -714,7 +714,7 @@
                 "archived": false,
                 "id": 315417563,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:33:21Z",
+                "last_commit": "2026-08-21T22:07:34Z",
                 "owner": "hashview",
                 "repo": "hashview",
                 "stars": 397
@@ -989,7 +989,7 @@
                 "last_commit": "2026-07-17T23:57:44Z",
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6499
+                "stars": 6501
               }
             },
             {
@@ -1034,7 +1034,7 @@
                 "last_commit": "2024-01-12T01:06:36Z",
                 "owner": "tomnomnom",
                 "repo": "anew",
-                "stars": 1654
+                "stars": 1655
               }
             },
             {
@@ -1049,7 +1049,7 @@
                 "last_commit": "2024-09-07T12:54:41Z",
                 "owner": "r3nt0n",
                 "repo": "bopscrk",
-                "stars": 1116
+                "stars": 1117
               }
             },
             {
@@ -1344,7 +1344,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-21T04:07:54Z",
+                "last_commit": "2026-08-22T04:02:05Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -1544,7 +1544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:07:28.188Z",
+    "last_updated": "2026-08-22T12:57:48.212Z",
     "original_repository": "n0kovo/awesome-password-cracking",
     "original_repository_id": 527082213,
     "original_repository_sha": "f47df32e6fa836df275fca6bfb2a6908b0dc9f80",
