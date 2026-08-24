@@ -5,6 +5,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "If you think an item shouldn't be here open an issue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527082213,
+            "language": null,
+            "last_commit": "2026-07-22T18:49:20Z",
+            "owner": "n0kovo",
+            "repo": "awesome-password-cracking",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "If in doubt, use awesome-lint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64659785,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T23:46:45Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-lint",
+            "stars": 815
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Penglab",
           "description": "Abuse of Google Colab for cracking hashes.",
           "children": [],
@@ -268,8 +304,23 @@
       "title": "Conversion"
     },
     {
-      "description": "Hashcat is the \"World's fastest and most advanced password recovery utility.\" The following are projects directly related to Hashcat in one way or another.",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Hashcat is the \"World's fastest and most advanced password recovery utility.\" The following are projects directly related to Hashcat in one way or another.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47409672,
+            "language": "C",
+            "last_commit": "2026-08-24T14:11:50Z",
+            "owner": "hashcat",
+            "repo": "hashcat",
+            "stars": 26609
+          }
+        },
         {
           "node_type": "item",
           "title": "hashcat-utils",
@@ -789,8 +840,23 @@
       "title": "Hashcat"
     },
     {
-      "description": "John the Ripper is \"an Open Source password security auditing and password recovery tool available for many operating systems.\" The following are projects directly related to John the Ripper in one way or another.",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "John the Ripper is \"an Open Source password security auditing and password recovery tool available for many operating systems.\" The following are projects directly related to John the Ripper in one way or another.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2997204,
+            "language": "C",
+            "last_commit": "2026-08-01T22:19:56Z",
+            "owner": "openwall",
+            "repo": "john",
+            "stars": 13534
+          }
+        },
         {
           "node_type": "item",
           "title": "BitCracker",
@@ -989,7 +1055,7 @@
                 "last_commit": "2026-07-17T23:57:44Z",
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6505
+                "stars": 6504
               }
             },
             {
@@ -1019,7 +1085,7 @@
                 "last_commit": "2026-04-14T01:50:33Z",
                 "owner": "sc0tfree",
                 "repo": "mentalist",
-                "stars": 2020
+                "stars": 2021
               }
             },
             {
@@ -1344,7 +1410,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-24T04:59:33Z",
+                "last_commit": "2026-08-24T14:04:41Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -1399,6 +1465,28 @@
           "description": null,
           "node_type": "group",
           "title": "Laguage specific"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RockYou2021",
+              "description": "RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375689787,
+                "language": null,
+                "last_commit": "2024-03-10T17:57:29Z",
+                "owner": "ohmybahgosh",
+                "repo": "RockYou2021.txt",
+                "stars": 1012
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
       "title": "Wordlists"
@@ -1406,6 +1494,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pdfrip",
+              "description": "A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458186107,
+                "language": "Rust",
+                "last_commit": "2026-03-26T05:23:46Z",
+                "owner": "mufeedvh",
+                "repo": "pdfrip",
+                "stars": 1406
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PDF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JKS private key cracker",
+              "description": "Cracking passwords of private key entries in a JKS file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94535141,
+                "language": "Java",
+                "last_commit": "2020-09-21T12:32:56Z",
+                "owner": "floyd-fuh",
+                "repo": "JKS-private-key-cracker-hashcat",
+                "stars": 188
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JKS"
+        },
         {
           "children": [
             {
@@ -1544,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:10:11.816Z",
+    "last_updated": "2026-08-24T14:21:29.030Z",
     "original_repository": "n0kovo/awesome-password-cracking",
     "original_repository_id": 527082213,
     "original_repository_sha": "f47df32e6fa836df275fca6bfb2a6908b0dc9f80",
