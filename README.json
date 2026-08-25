@@ -315,10 +315,10 @@
             "archived": false,
             "id": 47409672,
             "language": "C",
-            "last_commit": "2026-08-25T06:07:04Z",
+            "last_commit": "2026-08-25T06:09:47Z",
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26615
+            "stars": 26616
           }
         },
         {
@@ -489,7 +489,7 @@
                 "archived": false,
                 "id": 73367610,
                 "language": "PHP",
-                "last_commit": "2026-08-24T16:33:33Z",
+                "last_commit": "2026-08-25T06:34:23Z",
                 "owner": "hashtopolis",
                 "repo": "server",
                 "stars": 1802
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13535
+            "stars": 13536
           }
         },
         {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-07-17T23:57:44Z",
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6508
+                "stars": 6507
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2024-10-14T19:21:24Z",
                 "owner": "D4Vinci",
                 "repo": "elpscrk",
-                "stars": 956
+                "stars": 955
               }
             },
             {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:39.635Z",
+    "last_updated": "2026-08-25T13:07:49.370Z",
     "original_repository": "n0kovo/awesome-password-cracking",
     "original_repository_id": 527082213,
     "original_repository_sha": "f47df32e6fa836df275fca6bfb2a6908b0dc9f80",
