@@ -177,7 +177,7 @@
             "last_commit": "2024-06-15T07:56:08Z",
             "owner": "philsmd",
             "repo": "7z2hashcat",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2017-02-04T08:22:24Z",
             "owner": "philsmd",
             "repo": "itunes_backup2hashcat",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 47409672,
             "language": "C",
-            "last_commit": "2026-08-24T14:11:50Z",
+            "last_commit": "2026-08-25T06:07:04Z",
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26609
+            "stars": 26615
           }
         },
         {
@@ -440,7 +440,7 @@
                 "last_commit": "2022-01-10T00:05:56Z",
                 "owner": "brannondorsey",
                 "repo": "naive-hashcat",
-                "stars": 1415
+                "stars": 1416
               }
             },
             {
@@ -489,7 +489,7 @@
                 "archived": false,
                 "id": 73367610,
                 "language": "PHP",
-                "last_commit": "2026-08-24T11:59:57Z",
+                "last_commit": "2026-08-24T16:33:33Z",
                 "owner": "hashtopolis",
                 "repo": "server",
                 "stars": 1802
@@ -765,7 +765,7 @@
                 "archived": false,
                 "id": 315417563,
                 "language": "Python",
-                "last_commit": "2026-08-21T22:07:34Z",
+                "last_commit": "2026-08-25T03:05:43Z",
                 "owner": "hashview",
                 "repo": "hashview",
                 "stars": 397
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13534
+            "stars": 13535
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2025-12-19T01:31:42Z",
             "owner": "bee-san",
             "repo": "Name-That-Hash",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-07-17T23:57:44Z",
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6504
+                "stars": 6508
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2026-04-14T01:50:33Z",
                 "owner": "sc0tfree",
                 "repo": "mentalist",
-                "stars": 2021
+                "stars": 2022
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "last_commit": "2024-01-12T01:06:36Z",
                 "owner": "tomnomnom",
                 "repo": "anew",
-                "stars": 1655
+                "stars": 1656
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2025-11-04T09:46:40Z",
                 "owner": "nil0x42",
                 "repo": "duplicut",
-                "stars": 982
+                "stars": 980
               }
             },
             {
@@ -1410,7 +1410,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-24T14:04:41Z",
+                "last_commit": "2026-08-25T04:05:57Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -1552,7 +1552,7 @@
                 "last_commit": "2026-08-09T22:13:57Z",
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2173
+                "stars": 2175
               }
             },
             {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:29.030Z",
+    "last_updated": "2026-08-25T06:07:39.635Z",
     "original_repository": "n0kovo/awesome-password-cracking",
     "original_repository_id": 527082213,
     "original_repository_sha": "f47df32e6fa836df275fca6bfb2a6908b0dc9f80",
