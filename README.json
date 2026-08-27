@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T18:49:20Z",
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1064
+            "stars": 1063
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2023-07-17T00:21:49Z",
             "owner": "mxrch",
             "repo": "penglab",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-15T08:08:13Z",
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2429
+            "stars": 2431
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-06-15T07:56:08Z",
             "owner": "philsmd",
             "repo": "7z2hashcat",
-            "stars": 442
+            "stars": 443
           }
         },
         {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 47409672,
             "language": "C",
-            "last_commit": "2026-08-26T06:20:24Z",
+            "last_commit": "2026-08-27T05:49:59Z",
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26625
+            "stars": 26635
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2023-03-16T06:30:26Z",
             "owner": "pry0cc",
             "repo": "autocrack",
-            "stars": 45
+            "stars": 44
           }
         },
         {
@@ -422,7 +422,7 @@
                 "archived": false,
                 "id": 119077795,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:18:52Z",
+                "last_commit": "2026-08-26T15:28:45Z",
                 "owner": "trustedsec",
                 "repo": "hate_crack",
                 "stars": 1854
@@ -489,7 +489,7 @@
                 "archived": false,
                 "id": 73367610,
                 "language": "PHP",
-                "last_commit": "2026-08-26T10:41:13Z",
+                "last_commit": "2026-08-27T06:32:07Z",
                 "owner": "hashtopolis",
                 "repo": "server",
                 "stars": 1802
@@ -765,7 +765,7 @@
                 "archived": false,
                 "id": 315417563,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:51:23Z",
+                "last_commit": "2026-08-26T21:24:09Z",
                 "owner": "hashview",
                 "repo": "hashview",
                 "stars": 397
@@ -783,7 +783,7 @@
                 "last_commit": "2024-02-01T13:50:08Z",
                 "owner": "ctxis",
                 "repo": "crackerjack",
-                "stars": 378
+                "stars": 379
               }
             },
             {
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13541
+            "stars": 13548
           }
         },
         {
@@ -884,7 +884,7 @@
             "last_commit": "2023-09-29T02:02:24Z",
             "owner": "openwall",
             "repo": "johnny",
-            "stars": 641
+            "stars": 642
           }
         }
       ],
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-07-17T23:57:44Z",
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6506
+                "stars": 6507
               }
             },
             {
@@ -1070,7 +1070,7 @@
                 "last_commit": "2026-08-20T17:07:06Z",
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3543
+                "stars": 3544
               }
             },
             {
@@ -1410,7 +1410,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-26T04:08:53Z",
+                "last_commit": "2026-08-26T14:07:48Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -1552,7 +1552,7 @@
                 "last_commit": "2026-08-09T22:13:57Z",
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2176
+                "stars": 2177
               }
             },
             {
@@ -1676,9 +1676,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:12:27.007Z",
-    "original_repository": "n0kovo/awesome-password-cracking",
-    "original_repository_id": 527082213,
+    "last_updated": "2026-08-27T11:55:44.143Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 527082213,
+      "language": null,
+      "last_commit": "2026-07-22T18:49:20Z",
+      "owner": "n0kovo",
+      "repo": "awesome-password-cracking",
+      "stars": 1063
+    },
     "original_repository_sha": "f47df32e6fa836df275fca6bfb2a6908b0dc9f80",
     "enhanced_repository": "enhansome/enhansome-password-cracking",
     "enhanced_repository_description": null,
