@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1065,
+            "stars": 1067,
             "topics": [
               "awesome",
               "awesome-list",
@@ -55,7 +55,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "awesome-lint",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "awesome",
               "lint",
@@ -84,10 +84,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2023-07-17T00:21:49Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "mxrch",
             "repo": "penglab",
-            "stars": 974,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -261,7 +261,7 @@
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "handshake",
               "hashcat",
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "philsmd",
             "repo": "itunes_backup2hashcat",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-08-29T13:44:14Z",
-            "open_issues": 354,
+            "last_commit": "2026-08-30T11:51:45Z",
+            "open_issues": 355,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26652,
+            "stars": 26660,
             "topics": [
               "c",
               "cracking",
@@ -535,7 +535,7 @@
             "open_issues": 21,
             "owner": "hashcat",
             "repo": "hashcat-utils",
-            "stars": 1610,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -673,7 +673,7 @@
                 "id": 119077795,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-27T21:07:10Z",
+                "last_commit": "2026-08-30T01:15:42Z",
                 "open_issues": 7,
                 "owner": "trustedsec",
                 "repo": "hate_crack",
@@ -745,7 +745,7 @@
                 "open_issues": 0,
                 "owner": "timbo05sec",
                 "repo": "autocrack",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1259,7 +1259,7 @@
                 "open_issues": 8,
                 "owner": "ctxis",
                 "repo": "crackerjack",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1280,7 +1280,7 @@
                 "open_issues": 13,
                 "owner": "hegusung",
                 "repo": "WebHashcat",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "analytics",
                   "cracking",
@@ -1332,7 +1332,7 @@
                 "open_issues": 1,
                 "owner": "dj-zombie",
                 "repo": "hashpass",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "cracking",
                   "hacking-tool",
@@ -1368,7 +1368,7 @@
             "open_issues": 513,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13563,
+            "stars": 13568,
             "topics": [
               "assembler",
               "c",
@@ -1406,7 +1406,7 @@
             "open_issues": 57,
             "owner": "e-ago",
             "repo": "bitcracker",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "attack",
               "bitcracker",
@@ -1625,7 +1625,7 @@
                 "open_issues": 14,
                 "owner": "lakiw",
                 "repo": "pcfg_cracker",
-                "stars": 372,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1758,7 +1758,7 @@
                 "open_issues": 29,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3543,
+                "stars": 3544,
                 "topics": [
                   "dataset",
                   "edit-distance",
@@ -1823,7 +1823,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-01-12T01:06:36Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "tomnomnom",
                 "repo": "anew",
                 "stars": 1657,
@@ -1888,7 +1888,7 @@
                 "open_issues": 7,
                 "owner": "nil0x42",
                 "repo": "duplicut",
-                "stars": 980,
+                "stars": 979,
                 "topics": [
                   "c",
                   "cracking",
@@ -2142,7 +2142,7 @@
                 "id": 280802800,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-29T15:07:05Z",
+                "last_commit": "2026-08-29T17:53:42Z",
                 "open_issues": 0,
                 "owner": "Cynosureprime",
                 "repo": "rling",
@@ -2359,7 +2359,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T10:15:12Z",
+                "last_commit": "2026-08-30T09:22:17Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2594,7 +2594,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2178,
+                "stars": 2179,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -2701,7 +2701,7 @@
             "open_issues": 3,
             "owner": "javirandor",
             "repo": "passgpt",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:40:27.934Z",
+    "last_updated": "2026-08-30T16:37:41.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2786,7 +2786,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1065,
+      "stars": 1067,
       "topics": [
         "awesome",
         "awesome-list",
