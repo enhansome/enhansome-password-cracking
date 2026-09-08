@@ -261,7 +261,7 @@
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2436,
+            "stars": 2437,
             "topics": [
               "handshake",
               "hashcat",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-07T06:10:30Z",
-            "open_issues": 353,
+            "last_commit": "2026-09-08T16:33:25Z",
+            "open_issues": 350,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26723,
+            "stars": 26733,
             "topics": [
               "c",
               "cracking",
@@ -698,7 +698,7 @@
                 "open_issues": 12,
                 "owner": "brannondorsey",
                 "repo": "naive-hashcat",
-                "stars": 1418,
+                "stars": 1419,
                 "topics": [
                   "hacking",
                   "hash-cracking",
@@ -769,11 +769,11 @@
                 "id": 73367610,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T11:41:25Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-08T14:08:43Z",
+                "open_issues": 210,
                 "owner": "hashtopolis",
                 "repo": "server",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "cracking",
                   "distributed",
@@ -1227,8 +1227,8 @@
                 "id": 315417563,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-07T01:21:46Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-08T15:02:15Z",
+                "open_issues": 67,
                 "owner": "hashview",
                 "repo": "hashview",
                 "stars": 397,
@@ -1368,7 +1368,7 @@
             "open_issues": 514,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13606,
+            "stars": 13610,
             "topics": [
               "assembler",
               "c",
@@ -1477,7 +1477,7 @@
             "open_issues": 7,
             "owner": "bee-san",
             "repo": "Name-That-Hash",
-            "stars": 1667,
+            "stars": 1668,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -1730,7 +1730,7 @@
                 "open_issues": 54,
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6517,
+                "stars": 6520,
                 "topics": [
                   "dictionary-attack",
                   "password",
@@ -1754,11 +1754,11 @@
                 "id": 287616631,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T14:03:38Z",
+                "last_commit": "2026-09-07T20:46:40Z",
                 "open_issues": 29,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3553,
+                "stars": 3554,
                 "topics": [
                   "dataset",
                   "edit-distance",
@@ -1798,7 +1798,7 @@
                 "open_issues": 11,
                 "owner": "sc0tfree",
                 "repo": "mentalist",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "cracking",
                   "cracking-hashes",
@@ -1925,7 +1925,7 @@
                 "open_issues": 3,
                 "owner": "D4Vinci",
                 "repo": "elpscrk",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "brute-force",
                   "bruteforce",
@@ -2126,27 +2126,6 @@
                 "owner": "dariusztytko",
                 "repo": "token-reverser",
                 "stars": 110,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:14:38.548Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Rling",
-              "description": "RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities. ",
-                "homepage": null,
-                "id": 280802800,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-29T17:53:42Z",
-                "open_issues": 0,
-                "owner": "Cynosureprime",
-                "repo": "rling",
-                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2359,7 +2338,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T09:19:16Z",
+                "last_commit": "2026-09-08T08:13:22Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2594,7 +2573,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2188,
+                "stars": 2187,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -2701,7 +2680,7 @@
             "open_issues": 3,
             "owner": "javirandor",
             "repo": "passgpt",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2774,7 +2753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:43:54.477Z",
+    "last_updated": "2026-09-08T16:34:31.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
