@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1081,
+            "stars": 1082,
             "topics": [
               "awesome",
               "awesome-list",
@@ -261,7 +261,7 @@
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2440,
+            "stars": 2441,
             "topics": [
               "handshake",
               "hashcat",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-12T14:28:16Z",
-            "open_issues": 350,
+            "last_commit": "2026-09-13T11:02:45Z",
+            "open_issues": 345,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26760,
+            "stars": 26768,
             "topics": [
               "c",
               "cracking",
@@ -1227,8 +1227,8 @@
                 "id": 315417563,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-11T23:16:14Z",
-                "open_issues": 57,
+                "last_commit": "2026-09-12T19:10:59Z",
+                "open_issues": 56,
                 "owner": "hashview",
                 "repo": "hashview",
                 "stars": 398,
@@ -1368,7 +1368,7 @@
             "open_issues": 515,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13622,
+            "stars": 13623,
             "topics": [
               "assembler",
               "c",
@@ -1477,7 +1477,7 @@
             "open_issues": 7,
             "owner": "bee-san",
             "repo": "Name-That-Hash",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -1730,7 +1730,7 @@
                 "open_issues": 54,
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6527,
+                "stars": 6530,
                 "topics": [
                   "dictionary-attack",
                   "password",
@@ -1754,7 +1754,7 @@
                 "id": 287616631,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T20:46:40Z",
+                "last_commit": "2026-09-12T23:56:17Z",
                 "open_issues": 29,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
@@ -1826,7 +1826,7 @@
                 "open_issues": 8,
                 "owner": "tomnomnom",
                 "repo": "anew",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2359,7 +2359,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T08:02:52Z",
+                "last_commit": "2026-09-13T08:26:51Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:28:28.619Z",
+    "last_updated": "2026-09-13T16:11:45.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2786,7 +2786,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1081,
+      "stars": 1082,
       "topics": [
         "awesome",
         "awesome-list",
