@@ -79,7 +79,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## Hashcat
 
-*[Hashcat](https://github.com/hashcat/hashcat) ⭐ 26,774 | 🐛 341 | 🌐 C | 📅 2026-09-14 is the "World's fastest and most advanced password recovery utility." The following are projects directly related to Hashcat in one way or another.*
+*[Hashcat](https://github.com/hashcat/hashcat) ⭐ 26,774 | 🐛 339 | 🌐 C | 📅 2026-09-15 is the "World's fastest and most advanced password recovery utility." The following are projects directly related to Hashcat in one way or another.*
 
 * [hashcat-utils](https://github.com/hashcat/hashcat-utils/) ⭐ 1,621 | 🐛 21 | 🌐 C | 📅 2025-11-08 - Small utilities that are useful in advanced password cracking.
 * [known\_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) ⭐ 343 | 🐛 3 | 🌐 Python | 📅 2024-01-03 - A guide and tool for cracking ssh known\_hosts files with hashcat.
@@ -98,7 +98,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Distributed cracking
 
-* [Hashtopolis](https://github.com/hashtopolis/server) ⭐ 1,810 | 🐛 213 | 🌐 PHP | 📅 2026-09-14 - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
+* [Hashtopolis](https://github.com/hashtopolis/server) ⭐ 1,810 | 🐛 215 | 🌐 PHP | 📅 2026-09-15 - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
 * [CrackLord](https://github.com/jmmcatee/cracklord) ⭐ 396 | 🐛 34 | 🌐 Go | 📅 2022-09-22 - Queue and resource system for cracking passwords.
 * [Kraken](https://github.com/arcaneiceman/kraken) ⭐ 331 | 🐛 10 | 🌐 JavaScript | 📅 2023-06-02 - A multi-platform distributed brute-force password cracking system.
 * [fitcrack](https://github.com/nesfit/fitcrack) ⭐ 174 | 🐛 29 | 🌐 C | 📅 2026-04-19 - A hashcat-based distributed password cracking system.
@@ -106,13 +106,13 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Rules
 
-* [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) ⭐ 1,631 | 🐛 7 | 📅 2021-12-09 - "One rule to crack all passwords. or atleast we hope so."
+* [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) ⭐ 1,632 | 🐛 7 | 📅 2021-12-09 - "One rule to crack all passwords. or atleast we hope so."
 * [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) ⚠️ Archived - Password cracking rules for Hashcat based on statistics and industry patterns.
 * [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) ⭐ 1,101 | 🐛 1 | 📅 2022-04-22 - Wordlist, rules and masks from Kaonashi project (RootedCON 2019).
 * [OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) ⭐ 660 | 🐛 0 | 📅 2024-10-16 - "A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule."
 * [nsa-rules](https://github.com/NSAKEY/nsa-rules) ⭐ 572 | 🐛 0 | 🌐 Shell | 📅 2017-01-03 - Password cracking rules and masks for hashcat generated from cracked passwords.
 * [clem9669 rules](https://github.com/clem9669/hashcat-rule) ⭐ 473 | 🐛 0 | 📅 2024-09-02 - Rule for hashcat or john.
-* [pantagrule](https://github.com/rarecoil/pantagrule) ⭐ 400 | 🐛 0 | 📅 2020-11-26 - Large hashcat rulesets generated from real-world compromised passwords.
+* [pantagrule](https://github.com/rarecoil/pantagrule) ⭐ 401 | 🐛 0 | 📅 2020-11-26 - Large hashcat rulesets generated from real-world compromised passwords.
 * [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) ⭐ 170 | 🐛 0 | 📅 2026-01-16 - Probably the largest collection of hashcat rules out there.
 * [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) ⭐ 95 | 🐛 0 | 🌐 Shell | 📅 2024-08-19 - Custom password cracking rules for Hashcat and John the Ripper.
 
@@ -124,23 +124,23 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ### Web interfaces
 
 * [CrackQ](https://github.com/f0cker/crackq) ⭐ 939 | 🐛 10 | 🌐 Python | 📅 2024-09-03 - A Python Hashcat cracking queue system.
-* [Hashview](https://github.com/hashview/hashview) ⭐ 398 | 🐛 64 | 🌐 Python | 📅 2026-09-14 - A web front-end for password cracking and analytics.
-* [crackerjack](https://github.com/ctxis/crackerjack) ⭐ 380 | 🐛 8 | 🌐 Python | 📅 2024-02-01 - CrackerJack is a Web GUI for Hashcat developed in Python.
+* [Hashview](https://github.com/hashview/hashview) ⭐ 398 | 🐛 64 | 🌐 Python | 📅 2026-09-15 - A web front-end for password cracking and analytics.
+* [crackerjack](https://github.com/ctxis/crackerjack) ⭐ 379 | 🐛 8 | 🌐 Python | 📅 2024-02-01 - CrackerJack is a Web GUI for Hashcat developed in Python.
 * [WebHashCat](https://github.com/hegusung/WebHashcat) ⭐ 325 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-04 - WebHashcat is a very simple but efficient web interface for hashcat password cracking tool.
 * [Wavecrack](https://github.com/wavestone-cdt/wavecrack) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2021-09-09 - Wavestone's web interface for password cracking with hashcat.
 * [hashpass](https://github.com/dj-zombie/hashpass) ⭐ 48 | 🐛 1 | 🌐 Vue | 📅 2022-07-20 - Hash cracking WebApp & Server for hashcat.
 
 ## John the Ripper
 
-*[John the Ripper](https://github.com/openwall/john) ⭐ 13,625 | 🐛 514 | 🌐 C | 📅 2026-08-01 is "an Open Source password security auditing and password recovery tool available for many operating systems." The following are projects directly related to John the Ripper in one way or another.*
+*[John the Ripper](https://github.com/openwall/john) ⭐ 13,632 | 🐛 514 | 🌐 C | 📅 2026-08-01 is "an Open Source password security auditing and password recovery tool available for many operating systems." The following are projects directly related to John the Ripper in one way or another.*
 
 * [BitCracker](https://github.com/e-ago/bitcracker) ⭐ 970 | 🐛 57 | 🌐 C | 📅 2024-05-31 - BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker.
 * [johnny](https://github.com/openwall/johnny) ⭐ 643 | 🐛 21 | 🌐 C++ | 📅 2023-09-29 - GUI frontend to John the Ripper.
 
 ## Misc
 
-* [Name That Hash](https://github.com/HashPals/Name-That-Hash) ⭐ 1,669 | 🐛 7 | 🌐 Python | 📅 2025-12-19 - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
-* [hashgen](https://github.com/cyclone-github/hashgen) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-09-14 - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
+* [Name That Hash](https://github.com/HashPals/Name-That-Hash) ⭐ 1,670 | 🐛 7 | 🌐 Python | 📅 2025-12-19 - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
+* [hashgen](https://github.com/cyclone-github/hashgen) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2026-09-15 - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
 * [Hashes](https://github.com/zefr0x/hashes) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-06-12 - Identify hashing algorithms (GUI frontend for Name That Hash).
 
 ### Notable People
@@ -198,20 +198,20 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 * [PACK](https://github.com/iphelix/pack) ⭐ 894 | 🐛 10 | 🌐 Python | 📅 2019-12-10 - A collection of utilities developed to aid in analysis of password lists in order to enhance password cracking through pattern detection of masks, rules, character-sets and other password characteristics.
 * [Pipal](https://github.com/digininja/pipal) ⭐ 664 | 🐛 8 | 🌐 Ruby | 📅 2023-08-27 - THE password analyser.
-* [pcfg\_cracker](https://github.com/lakiw/pcfg_cracker) ⭐ 371 | 🐛 14 | 🌐 Python | 📅 2025-09-02 - This project uses machine learning to identify password creation habits of users.
+* [pcfg\_cracker](https://github.com/lakiw/pcfg_cracker) ⭐ 370 | 🐛 14 | 🌐 Python | 📅 2025-09-02 - This project uses machine learning to identify password creation habits of users.
 * [Graphcat](https://github.com/Orange-Cyberdefense/graphcat) ⭐ 167 | 🐛 3 | 🌐 Python | 📅 2023-02-17 - Generate graphs and charts based on password cracking result.
 * [password-stretcher](https://github.com/thetechromancer/password-stretcher) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2022-12-08 - Generate "disgusting quantities" of passwords from websites, files, or stdin. Compliments password-smelter.
 * [password-smelter](https://github.com/TheTechromancer/password-smelter) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-01-17 - Ingests passwords from hashcat, etc. and outputs to HTML, Markdown, XLSX, PNG, JSON. Dark and light themes supported. Compliments password-stretcher.
 
 ### Generation/Manipulation
 
-* [CUPP](https://github.com/Mebus/cupp) ⭐ 6,529 | 🐛 54 | 🌐 Python | 📅 2026-07-17 - A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.
-* [StringZilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,555 | 🐛 30 | 🌐 C | 📅 2026-09-13 - Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C.
-* [Mentalist](https://github.com/sc0tfree/mentalist) ⭐ 2,026 | 🐛 11 | 🌐 Python | 📅 2026-04-14 - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
+* [CUPP](https://github.com/Mebus/cupp) ⭐ 6,531 | 🐛 54 | 🌐 Python | 📅 2026-07-17 - A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.
+* [StringZilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,556 | 🐛 30 | 🌐 C | 📅 2026-09-15 - Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C.
+* [Mentalist](https://github.com/sc0tfree/mentalist) ⭐ 2,027 | 🐛 11 | 🌐 Python | 📅 2026-04-14 - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
 * [anew](https://github.com/tomnomnom/anew) ⭐ 1,661 | 🐛 8 | 🌐 Go | 📅 2024-01-12 - Append lines from stdin to a file, but only if they don't already appear in the file. Outputs new lines to stdout too, making it a bit like a tee -a that removes duplicates.
 * [bopscrk](https://github.com/r3nt0n/bopscrk) ⭐ 1,119 | 🐛 6 | 🌐 Python | 📅 2024-09-07 - Generate smart and powerful wordlists for targeted attacks. Includes song lyrics fetching and different transforms.
 * [duplicut](https://github.com/nil0x42/duplicut) ⭐ 981 | 🐛 7 | 🌐 C++ | 📅 2025-11-04 - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking).
-* [Elpscrk](https://github.com/D4Vinci/elpscrk) ⭐ 954 | 🐛 3 | 🌐 Python | 📅 2024-10-14 - Elpscrk is like cupp, but it's based on permutations and statistics while being memory efficient.
+* [Elpscrk](https://github.com/D4Vinci/elpscrk) ⭐ 955 | 🐛 3 | 🌐 Python | 📅 2024-10-14 - Elpscrk is like cupp, but it's based on permutations and statistics while being memory efficient.
 * [kwprocessor](https://github.com/hashcat/kwprocessor) ⭐ 613 | 🐛 7 | 🌐 C | 📅 2025-08-19 - Advanced keyboard-walk generator with configureable basechars, keymap and routes.
 * [maskprocessor](https://github.com/hashcat/maskprocessor/) ⭐ 511 | 🐛 14 | 🌐 C | 📅 2022-06-20 - High-performance word generator with a per-position configureable charset.
 * [princeprocessor](https://github.com/hashcat/princeprocessor) ⭐ 504 | 🐛 9 | 🌐 C | 📅 2023-10-30 - Standalone password candidate generator using the PRINCE algorithm.
@@ -220,7 +220,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 * [TTPassGen](https://github.com/tp7309/TTPassGen) ⭐ 169 | 🐛 0 | 🌐 Python | 📅 2026-09-01 - Flexible and scriptable password dictionary generator which supportss brute-force, combination, complex rule modes etc.
 * [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) ⭐ 150 | 🐛 0 | 🌐 Python | 📅 2016-02-16 - Generate Keyboard Walk Dictionaries for cracking.
 * [token-reverser](https://github.com/dariusztytko/token-reverser) ⭐ 110 | 🐛 1 | 🌐 Python | 📅 2020-05-20 - Words list generator to crack security tokens.
-* [Rling](https://github.com/Cynosureprime/rling) ⭐ 101 | 🐛 0 | 🌐 C | 📅 2026-08-29 - RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.
+* [Rling](https://github.com/Cynosureprime/rling) ⭐ 101 | 🐛 0 | 🌐 C | 📅 2026-09-15 - RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.
 * [common-substr](https://github.com/sensepost/common-substr) ⭐ 67 | 🐛 0 | 🌐 Go | 📅 2026-06-03 - Simple tool to extract the most common substrings from an input text. Built for password cracking.
 * [Rephraser](https://github.com/travco/rephraser) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
 * [Phraser](https://github.com/Sparell/Phraser) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2015-12-25 - Phraser is a phrase generator using n-grams and Markov chains to generate phrases for passphrase cracking.
@@ -235,7 +235,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Laguage specific
 
-* [French Wordlists](https://github.com/clem9669/wordlists) ⭐ 327 | 🐛 5 | 📅 2026-09-14 - This project aim to provide french word list about everything a person could use as a base password.
+* [French Wordlists](https://github.com/clem9669/wordlists) ⭐ 327 | 🐛 5 | 📅 2026-09-15 - This project aim to provide french word list about everything a person could use as a base password.
 * [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) ⭐ 32 | 🐛 0 | 📅 2023-01-11 - Collection of danish wordlists for cracking danish passwords.
 * [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) ⭐ 8 | 🐛 0 | 📅 2023-01-05 - A mix of names, last names and some albanian literature.
 * [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2022-05-24 - This tool can generate wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.
@@ -251,7 +251,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### PDF
 
-* [pdfrip](https://github.com/mufeedvh/pdfrip) ⭐ 1,407 | 🐛 17 | 🌐 Rust | 📅 2026-03-26 - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+* [pdfrip](https://github.com/mufeedvh/pdfrip) ⭐ 1,408 | 🐛 17 | 🌐 Rust | 📅 2026-03-26 - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
 ### JKS
 
@@ -259,7 +259,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### ZIP
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,188 | 🐛 20 | 🌐 C++ | 📅 2026-08-09 - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,189 | 🐛 20 | 🌐 C++ | 📅 2026-08-09 - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 * [frackzip](https://github.com/hyc/fcrackzip) ⚠️ Archived - Small tool for cracking encrypted ZIP archives.
 
 ## Machine Learning / AI
@@ -332,4 +332,4 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
