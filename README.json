@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "If you think an item shouldn't be here open an issue",
-          "description": null,
+          "description": "n0kovo/awesome-password-cracking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,7 +42,7 @@
         {
           "node_type": "item",
           "title": "If in doubt, use awesome-lint",
-          "description": null,
+          "description": "sindresorhus/awesome-lint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,7 +257,7 @@
             "id": 87620707,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-29T05:40:16Z",
+            "last_commit": "2026-10-03T03:45:10Z",
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "Hashcat is the \"World's fastest and most advanced password recovery utility.\" The following are projects directly related to Hashcat in one way or another.",
-          "description": null,
+          "description": "hashcat/hashcat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,8 +501,8 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-02T06:32:50Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-02T20:58:06Z",
+            "open_issues": 249,
             "owner": "hashcat",
             "repo": "hashcat",
             "stars": 26931,
@@ -673,7 +673,7 @@
                 "id": 119077795,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-29T18:44:34Z",
+                "last_commit": "2026-10-02T23:35:17Z",
                 "open_issues": 10,
                 "owner": "trustedsec",
                 "repo": "hate_crack",
@@ -859,7 +859,7 @@
                 "open_issues": 29,
                 "owner": "nesfit",
                 "repo": "fitcrack",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1355,7 +1355,7 @@
         {
           "node_type": "item",
           "title": "John the Ripper is \"an Open Source password security auditing and password recovery tool available for many operating systems.\" The following are projects directly related to John the Ripper in one way or another.",
-          "description": null,
+          "description": "openwall/john",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1368,7 +1368,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13708,
+            "stars": 13709,
             "topics": [
               "assembler",
               "c",
@@ -1754,8 +1754,8 @@
                 "id": 287616631,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:32:52Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-02T20:58:59Z",
+                "open_issues": 28,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
                 "stars": 3569,
@@ -1847,7 +1847,7 @@
                 "open_issues": 6,
                 "owner": "r3nt0n",
                 "repo": "bopscrk",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": [
                   "case-converter",
                   "cracking",
@@ -2359,7 +2359,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T09:56:41Z",
+                "last_commit": "2026-10-02T18:27:04Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2484,7 +2484,7 @@
                 "open_issues": 4,
                 "owner": "ohmybahgosh",
                 "repo": "RockYou2021.txt",
-                "stars": 1016,
+                "stars": 1015,
                 "topics": [
                   "hashcat",
                   "password-safety",
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:49:54.271Z",
+    "last_updated": "2026-10-03T04:59:31.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2786,7 +2786,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1101,
+      "stars": 1102,
       "topics": [
         "awesome",
         "awesome-list",
