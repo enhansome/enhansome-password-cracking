@@ -4,9 +4,9 @@ In cryptanalysis and computer security, password cracking is the process of reco
 
 This is a curated list of awesome tools, research, papers and other projects related to password cracking and password security, made by [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo/?l).
 
-Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/blob/main/CONTRIBUTING.md) ⭐ 1,102 | 🐛 0 | 📅 2026-09-06 before contributing! In short:
+Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/blob/main/CONTRIBUTING.md) ⭐ 1,103 | 🐛 0 | 📅 2026-09-06 before contributing! In short:
 
-* If you think an item shouldn't be here [open an issue](https://github.com/narkopolo/awesome-password-cracking/issues/new) ⭐ 1,102 | 🐛 0 | 📅 2026-09-06
+* If you think an item shouldn't be here [open an issue](https://github.com/narkopolo/awesome-password-cracking/issues/new) ⭐ 1,103 | 🐛 0 | 📅 2026-09-06
 * If in doubt, use [awesome-lint](https://github.com/sindresorhus/awesome-lint) ⭐ 836 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-05
 * Importantly, this list is ![made by humans](https://img.shields.io/badge/made_by-humans-blue.svg?style=flat\&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMTEuNDg1IDIwOC40NTciPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0xMjIuMTUgMTUyLjQwOS0uMzM2LTEuOTM4aC0xLjZsLS4zMjcgMS45MzhoLTEuNjcybDEuNzY0LTguODEzaDIuMDNsMS43OTQgOC44MTN6bS0uOTI3LTUuNzI3cS0uMDYxLS40NTctLjEyMi0uODg5LS4wNTEtLjQzMi0uMDgyLS43NzctLjA2MS43MDMtLjIxNCAxLjY0MWwtLjM1NyAyLjE5N2gxLjEzMnptNS43NjEgNS43MjdoLTIuOTA2di0xLjAxM2wuNjgzLS4zODJ2LTYuMDIzbC0uNjgzLS4zODJ2LTEuMDEzaDIuOTA2djEuMDEzbC0uNjczLjM4MnY2LjAyM2wuNjczLjM4MnoiIGFyaWEtbGFiZWw9IkFJIiBmb250LWZhbWlseT0iTm90byBTYW5zIiBmb250LXNpemU9IjExLjIxOCIgZm9udC1zdHJldGNoPSJleHRyYS1jb25kZW5zZWQiIGZvbnQtd2VpZ2h0PSI4MDAiIHN0eWxlPSJsaW5lLWhlaWdodDoxLjU7dGV4dC1hbGlnbjpjZW50ZXIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNDAwLjMyMyAtMTcxMy44ODYpc2NhbGUoMTIuMjgpIi8+PHBhdGggZmlsbD0icmVkIiBkPSJNMTIyLjYgMTM5LjY5OWMtNC41NzYgMC04LjMwMyAzLjcyNy04LjMwMyA4LjMwM3MzLjcyNyA4LjMwMyA4LjMwMyA4LjMwMyA4LjMwMy0zLjcyNyA4LjMwMy04LjMwMy0zLjcyNy04LjMwMy04LjMwMy04LjMwM20wIDEuNjIxYTYuNjcgNi42NyAwIDAgMSA2LjY4MiA2LjY4MmMwIC41ODgtLjExMSAxLjE0NS0uMjUzIDEuNjg3bC0xMS45NDctNS4zNGMxLjE5Ni0xLjggMy4xODgtMy4wMjkgNS41MTgtMy4wMjltLTYuMjYgNC40NjkgMTIuMDY1IDUuMzkyYy0xLjEzNiAyLjA2NS0zLjI3NSAzLjUwNS01LjgwNSAzLjUwNWE2LjY3IDYuNjcgMCAwIDEtNi42ODItNi42ODRjMC0uNzgzLjE3Ni0xLjUxNi40MjItMi4yMTMiIGNvbG9yPSIjMDAwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjQwMCIgb3ZlcmZsb3c9InZpc2libGUiIHN0eWxlPSJsaW5lLWhlaWdodDpub3JtYWw7Zm9udC12YXJpYW50LWxpZ2F0dXJlczpub3JtYWw7Zm9udC12YXJpYW50LXBvc2l0aW9uOm5vcm1hbDtmb250LXZhcmlhbnQtY2Fwczpub3JtYWw7Zm9udC12YXJpYW50LW51bWVyaWM6bm9ybWFsO2ZvbnQtdmFyaWFudC1hbHRlcm5hdGVzOm5vcm1hbDtmb250LXZhcmlhbnQtZWFzdC1hc2lhbjpub3JtYWw7Zm9udC1mZWF0dXJlLXNldHRpbmdzOm5vcm1hbDtmb250LXZhcmlhdGlvbi1zZXR0aW5nczpub3JtYWw7dGV4dC1pbmRlbnQ6MDt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtZGVjb3JhdGlvbi1saW5lOm5vbmU7dGV4dC1kZWNvcmF0aW9uLXN0eWxlOnNvbGlkO3RleHQtZGVjb3JhdGlvbi1jb2xvcjojMDAwO3RleHQtdHJhbnNmb3JtOm5vbmU7dGV4dC1vcmllbnRhdGlvbjptaXhlZDt3aGl0ZS1zcGFjZTpub3JtYWw7c2hhcGUtcGFkZGluZzowO3NoYXBlLW1hcmdpbjowO2lubGluZS1zaXplOjA7aXNvbGF0aW9uOmF1dG87bWl4LWJsZW5kLW1vZGU6bm9ybWFsO3NvbGlkLWNvbG9yOiMwMDA7c29saWQtb3BhY2l0eToxOy1pbmtzY2FwZS1zdHJva2U6bm9uZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE0MDAuMzIzIC0xNzEzLjg4NilzY2FsZSgxMi4yOCkiLz48L3N2Zz4=)
   * AI-opened PRs will be rejected. If you care about this list, make a real effort
@@ -79,7 +79,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## Hashcat
 
-*[Hashcat](https://github.com/hashcat/hashcat) ⭐ 26,939 | 🐛 247 | 🌐 C | 📅 2026-10-03 is the "World's fastest and most advanced password recovery utility." The following are projects directly related to Hashcat in one way or another.*
+*[Hashcat](https://github.com/hashcat/hashcat) ⭐ 26,942 | 🐛 249 | 🌐 C | 📅 2026-10-04 is the "World's fastest and most advanced password recovery utility." The following are projects directly related to Hashcat in one way or another.*
 
 * [hashcat-utils](https://github.com/hashcat/hashcat-utils/) ⭐ 1,625 | 🐛 20 | 🌐 C | 📅 2025-11-08 - Small utilities that are useful in advanced password cracking.
 * [known\_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) ⭐ 343 | 🐛 3 | 🌐 Python | 📅 2024-01-03 - A guide and tool for cracking ssh known\_hosts files with hashcat.
@@ -98,7 +98,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Distributed cracking
 
-* [Hashtopolis](https://github.com/hashtopolis/server) ⭐ 1,813 | 🐛 218 | 🌐 PHP | 📅 2026-10-02 - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
+* [Hashtopolis](https://github.com/hashtopolis/server) ⭐ 1,814 | 🐛 218 | 🌐 PHP | 📅 2026-10-02 - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
 * [CrackLord](https://github.com/jmmcatee/cracklord) ⭐ 396 | 🐛 34 | 🌐 Go | 📅 2022-09-22 - Queue and resource system for cracking passwords.
 * [Kraken](https://github.com/arcaneiceman/kraken) ⭐ 331 | 🐛 10 | 🌐 JavaScript | 📅 2023-06-02 - A multi-platform distributed brute-force password cracking system.
 * [fitcrack](https://github.com/nesfit/fitcrack) ⭐ 177 | 🐛 29 | 🌐 C | 📅 2026-04-19 - A hashcat-based distributed password cracking system.
@@ -132,10 +132,10 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## John the Ripper
 
-*[John the Ripper](https://github.com/openwall/john) ⭐ 13,716 | 🐛 518 | 🌐 C | 📅 2026-09-30 is "an Open Source password security auditing and password recovery tool available for many operating systems." The following are projects directly related to John the Ripper in one way or another.*
+*[John the Ripper](https://github.com/openwall/john) ⭐ 13,725 | 🐛 518 | 🌐 C | 📅 2026-09-30 is "an Open Source password security auditing and password recovery tool available for many operating systems." The following are projects directly related to John the Ripper in one way or another.*
 
 * [BitCracker](https://github.com/e-ago/bitcracker) ⭐ 975 | 🐛 57 | 🌐 C | 📅 2024-05-31 - BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker.
-* [johnny](https://github.com/openwall/johnny) ⭐ 645 | 🐛 21 | 🌐 C++ | 📅 2023-09-29 - GUI frontend to John the Ripper.
+* [johnny](https://github.com/openwall/johnny) ⭐ 646 | 🐛 21 | 🌐 C++ | 📅 2023-09-29 - GUI frontend to John the Ripper.
 
 ## Misc
 
@@ -235,7 +235,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Laguage specific
 
-* [French Wordlists](https://github.com/clem9669/wordlists) ⭐ 328 | 🐛 5 | 📅 2026-10-03 - This project aim to provide french word list about everything a person could use as a base password.
+* [French Wordlists](https://github.com/clem9669/wordlists) ⭐ 328 | 🐛 5 | 📅 2026-10-04 - This project aim to provide french word list about everything a person could use as a base password.
 * [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) ⭐ 32 | 🐛 0 | 📅 2023-01-11 - Collection of danish wordlists for cracking danish passwords.
 * [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) ⭐ 8 | 🐛 0 | 📅 2023-01-05 - A mix of names, last names and some albanian literature.
 * [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2022-05-24 - This tool can generate wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.
@@ -251,7 +251,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### PDF
 
-* [pdfrip](https://github.com/mufeedvh/pdfrip) ⭐ 1,411 | 🐛 17 | 🌐 Rust | 📅 2026-03-26 - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+* [pdfrip](https://github.com/mufeedvh/pdfrip) ⭐ 1,412 | 🐛 17 | 🌐 Rust | 📅 2026-03-26 - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
 ### JKS
 
@@ -259,7 +259,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### ZIP
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,207 | 🐛 18 | 🌐 C++ | 📅 2026-09-26 - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,208 | 🐛 18 | 🌐 C++ | 📅 2026-09-26 - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 * [frackzip](https://github.com/hyc/fcrackzip) ⚠️ Archived - Small tool for cracking encrypted ZIP archives.
 
 ## Machine Learning / AI
@@ -332,4 +332,4 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

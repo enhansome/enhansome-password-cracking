@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "awesome",
               "awesome-list",
@@ -257,7 +257,7 @@
             "id": 87620707,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-03T15:52:40Z",
+            "last_commit": "2026-10-03T18:51:24Z",
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-03T14:48:36Z",
-            "open_issues": 247,
+            "last_commit": "2026-10-04T16:39:19Z",
+            "open_issues": 249,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26939,
+            "stars": 26942,
             "topics": [
               "c",
               "cracking",
@@ -773,7 +773,7 @@
                 "open_issues": 218,
                 "owner": "hashtopolis",
                 "repo": "server",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "cracking",
                   "distributed",
@@ -1368,7 +1368,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13716,
+            "stars": 13725,
             "topics": [
               "assembler",
               "c",
@@ -1444,7 +1444,7 @@
             "open_issues": 21,
             "owner": "openwall",
             "repo": "johnny",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "cracker",
               "gui",
@@ -2359,7 +2359,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T09:18:42Z",
+                "last_commit": "2026-10-04T09:58:34Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2530,7 +2530,7 @@
                 "open_issues": 17,
                 "owner": "mufeedvh",
                 "repo": "pdfrip",
-                "stars": 1411,
+                "stars": 1412,
                 "topics": [
                   "hashcat",
                   "password",
@@ -2594,7 +2594,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2207,
+                "stars": 2208,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:11:36.674Z",
+    "last_updated": "2026-10-04T16:49:54.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2786,7 +2786,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1102,
+      "stars": 1103,
       "topics": [
         "awesome",
         "awesome-list",
