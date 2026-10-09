@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1108,
+            "stars": 1109,
             "topics": [
               "awesome",
               "awesome-list",
@@ -257,7 +257,7 @@
             "id": 87620707,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:51:24Z",
+            "last_commit": "2026-10-09T16:31:14Z",
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-08T08:09:02Z",
-            "open_issues": 239,
+            "last_commit": "2026-10-09T06:13:23Z",
+            "open_issues": 243,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26960,
+            "stars": 26964,
             "topics": [
               "c",
               "cracking",
@@ -535,7 +535,7 @@
             "open_issues": 20,
             "owner": "hashcat",
             "repo": "hashcat-utils",
-            "stars": 1626,
+            "stars": 1625,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -859,7 +859,7 @@
                 "open_issues": 29,
                 "owner": "nesfit",
                 "repo": "fitcrack",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -908,7 +908,7 @@
                 "open_issues": 7,
                 "owner": "NotSoSecure",
                 "repo": "password_cracking_rules",
-                "stars": 1640,
+                "stars": 1641,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13740,
+            "stars": 13747,
             "topics": [
               "assembler",
               "c",
@@ -1730,7 +1730,7 @@
                 "open_issues": 50,
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6568,
+                "stars": 6569,
                 "topics": [
                   "dictionary-attack",
                   "password",
@@ -1826,7 +1826,7 @@
                 "open_issues": 8,
                 "owner": "tomnomnom",
                 "repo": "anew",
-                "stars": 1659,
+                "stars": 1658,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2359,7 +2359,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T10:46:39Z",
+                "last_commit": "2026-10-09T10:45:27Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:48:42.518Z",
+    "last_updated": "2026-10-09T18:19:12.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2786,7 +2786,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1108,
+      "stars": 1109,
       "topics": [
         "awesome",
         "awesome-list",
