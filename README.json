@@ -55,7 +55,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "awesome-lint",
-            "stars": 852,
+            "stars": 854,
             "topics": [
               "awesome",
               "lint",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-25T20:01:50Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-27T17:41:49Z",
+            "open_issues": 191,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 27138,
+            "stars": 27155,
             "topics": [
               "c",
               "cracking",
@@ -698,7 +698,7 @@
                 "open_issues": 12,
                 "owner": "brannondorsey",
                 "repo": "naive-hashcat",
-                "stars": 1428,
+                "stars": 1429,
                 "topics": [
                   "hacking",
                   "hash-cracking",
@@ -769,7 +769,7 @@
                 "id": 73367610,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T04:06:32Z",
+                "last_commit": "2026-10-27T06:18:26Z",
                 "open_issues": 221,
                 "owner": "hashtopolis",
                 "repo": "server",
@@ -989,7 +989,7 @@
                 "open_issues": 0,
                 "owner": "stealthsploit",
                 "repo": "OneRuleToRuleThemStill",
-                "stars": 665,
+                "stars": 666,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1010,7 +1010,7 @@
                 "open_issues": 0,
                 "owner": "NSAKEY",
                 "repo": "nsa-rules",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1369,7 +1369,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13817,
+            "stars": 13822,
             "topics": [
               "assembler",
               "c",
@@ -1478,7 +1478,7 @@
             "open_issues": 6,
             "owner": "bee-san",
             "repo": "Name-That-Hash",
-            "stars": 1674,
+            "stars": 1673,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -1728,10 +1728,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-17T23:57:44Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6603,
+                "stars": 6602,
                 "topics": [
                   "dictionary-attack",
                   "password",
@@ -1755,11 +1755,11 @@
                 "id": 287616631,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T23:18:48Z",
+                "last_commit": "2026-10-27T06:09:59Z",
                 "open_issues": 30,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3576,
+                "stars": 3577,
                 "topics": [
                   "dataset",
                   "edit-distance",
@@ -1799,7 +1799,7 @@
                 "open_issues": 11,
                 "owner": "sc0tfree",
                 "repo": "mentalist",
-                "stars": 2041,
+                "stars": 2042,
                 "topics": [
                   "cracking",
                   "cracking-hashes",
@@ -1926,7 +1926,7 @@
                 "open_issues": 3,
                 "owner": "D4Vinci",
                 "repo": "elpscrk",
-                "stars": 964,
+                "stars": 965,
                 "topics": [
                   "brute-force",
                   "bruteforce",
@@ -2019,8 +2019,8 @@
                 "id": 522559944,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-02-01T12:56:06Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-27T17:40:57Z",
+                "open_issues": 5,
                 "owner": "andreiverse",
                 "repo": "gorilla",
                 "stars": 390,
@@ -2360,7 +2360,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T10:04:38Z",
+                "last_commit": "2026-10-27T09:11:44Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2531,7 +2531,7 @@
                 "open_issues": 17,
                 "owner": "mufeedvh",
                 "repo": "pdfrip",
-                "stars": 1414,
+                "stars": 1415,
                 "topics": [
                   "hashcat",
                   "password",
@@ -2595,7 +2595,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -2775,7 +2775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:38:52.670Z",
+    "last_updated": "2026-10-27T17:55:53.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
