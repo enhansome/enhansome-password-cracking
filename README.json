@@ -15,11 +15,11 @@
             "id": 527082213,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-06T21:25:55Z",
+            "last_commit": "2026-11-12T02:00:48Z",
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1145,
+            "stars": 1149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-11T18:59:50Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-12T08:47:13Z",
+            "open_issues": 40,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 27324,
+            "stars": 27337,
             "topics": [
               "c",
               "cracking",
@@ -769,11 +769,11 @@
                 "id": 73367610,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T17:24:54Z",
-                "open_issues": 224,
+                "last_commit": "2026-11-12T14:47:30Z",
+                "open_issues": 222,
                 "owner": "hashtopolis",
                 "repo": "server",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "cracking",
                   "distributed",
@@ -909,7 +909,7 @@
                 "open_issues": 7,
                 "owner": "NotSoSecure",
                 "repo": "password_cracking_rules",
-                "stars": 1646,
+                "stars": 1647,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -989,7 +989,7 @@
                 "open_issues": 0,
                 "owner": "stealthsploit",
                 "repo": "OneRuleToRuleThemStill",
-                "stars": 668,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1010,7 +1010,7 @@
                 "open_issues": 0,
                 "owner": "NSAKEY",
                 "repo": "nsa-rules",
-                "stars": 574,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1369,7 +1369,7 @@
             "open_issues": 527,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13909,
+            "stars": 13914,
             "topics": [
               "assembler",
               "c",
@@ -1559,6 +1559,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hx",
+          "description": "A domain-specific language for describing, computing and verifying cryptographic hash compositions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "hx Hash Expression Language Specification - troff source of the document published at https://www.mdxfind.com/hx.pdf",
+            "homepage": null,
+            "id": 1358273767,
+            "language": "Roff",
+            "license": "MIT",
+            "last_commit": "2026-11-09T14:10:21Z",
+            "open_issues": 0,
+            "owner": "Cynosureprime",
+            "repo": "hx",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-12T19:51:05.896Z"
         }
       ],
       "title": "Misc"
@@ -1584,7 +1605,7 @@
                 "open_issues": 11,
                 "owner": "iphelix",
                 "repo": "pack",
-                "stars": 901,
+                "stars": 902,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -1756,10 +1777,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T19:35:15Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3587,
+                "stars": 3588,
                 "topics": [
                   "dataset",
                   "edit-distance",
@@ -1923,10 +1944,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2024-10-14T19:21:24Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "D4Vinci",
                 "repo": "elpscrk",
-                "stars": 972,
+                "stars": 973,
                 "topics": [
                   "brute-force",
                   "bruteforce",
@@ -2360,7 +2381,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T11:13:55Z",
+                "last_commit": "2026-11-12T11:31:28Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -2744,7 +2765,7 @@
             "open_issues": 2,
             "owner": "TheAdamProject",
             "repo": "adams",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2775,7 +2796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:31:47.313Z",
+    "last_updated": "2026-11-12T19:51:05.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2783,11 +2804,11 @@
       "id": 527082213,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-06T21:25:55Z",
+      "last_commit": "2026-11-12T02:00:48Z",
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1145,
+      "stars": 1149,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2805,7 +2826,7 @@
         "wordlists"
       ]
     },
-    "original_repository_sha": "855f3d1f50a5ca5509844c7d72ffab4936c00982",
+    "original_repository_sha": "229d692aad1267242b1ecec2c5ab9e2bff85c6d8",
     "enhanced_repository": "enhansome/enhansome-password-cracking",
     "enhanced_repository_description": null,
     "title": "Awesome Password Cracking with stars"
