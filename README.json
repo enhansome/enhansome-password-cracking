@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "n0kovo",
             "repo": "awesome-password-cracking",
-            "stars": 1162,
+            "stars": 1164,
             "topics": [
               "awesome",
               "awesome-list",
@@ -261,7 +261,7 @@
             "open_issues": 1,
             "owner": "ZerBea",
             "repo": "hcxtools",
-            "stars": 2481,
+            "stars": 2482,
             "topics": [
               "handshake",
               "hashcat",
@@ -501,11 +501,11 @@
             "id": 47409672,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-21T08:37:17Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-22T18:24:24Z",
+            "open_issues": 29,
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 27396,
+            "stars": 27404,
             "topics": [
               "c",
               "cracking",
@@ -1058,7 +1058,7 @@
                 "open_issues": 0,
                 "owner": "rarecoil",
                 "repo": "pantagrule",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "hashcat",
                   "hashcat-rules",
@@ -1369,7 +1369,7 @@
             "open_issues": 527,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13958,
+            "stars": 13962,
             "topics": [
               "assembler",
               "c",
@@ -1445,7 +1445,7 @@
             "open_issues": 21,
             "owner": "openwall",
             "repo": "johnny",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "cracker",
               "gui",
@@ -1752,7 +1752,7 @@
                 "open_issues": 52,
                 "owner": "Mebus",
                 "repo": "cupp",
-                "stars": 6630,
+                "stars": 6634,
                 "topics": [
                   "dictionary-attack",
                   "password",
@@ -1780,7 +1780,7 @@
                 "open_issues": 16,
                 "owner": "ashvardanian",
                 "repo": "StringZilla",
-                "stars": 3590,
+                "stars": 3589,
                 "topics": [
                   "dataset",
                   "edit-distance",
@@ -2002,7 +2002,7 @@
                 "open_issues": 14,
                 "owner": "hashcat",
                 "repo": "maskprocessor",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:38.548Z"
@@ -2381,11 +2381,11 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T21:06:39Z",
+                "last_commit": "2026-11-22T11:42:10Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "cmiyc",
                   "cracking-hashes",
@@ -2796,7 +2796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:07:14.348Z",
+    "last_updated": "2026-11-22T19:29:54.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, research, papers and other projects related to password cracking and password security.",
@@ -2808,7 +2808,7 @@
       "open_issues": 0,
       "owner": "n0kovo",
       "repo": "awesome-password-cracking",
-      "stars": 1162,
+      "stars": 1164,
       "topics": [
         "awesome",
         "awesome-list",
